@@ -2,9 +2,9 @@
 
 Meu interesse pela tecnologia surgiu quando iniciei meus primeiros projetos como freelancer trabalhando com a criação de identidades visuais para pequenos empreendedores. Á medida que surgiam novos projetos, percebi uma demanda para criação de sites o que aguçou minha curiosidade. 
 
-Desde então busco me desenvolver cada vez mais na área, por isso iniciei minha graduação em Análise e Desenvolvimento de Sistemas e venho dedicando tempo para me aprofundar e aventurar cada vez mais no Front-end e no Back-end.
+Sou formado em Análise e Desenvolvimento de Sistemas, tenho vivência na área de produtos onde trabalhei em parceria com uma squad de desenvolvimento e venho dedicando tempo para me aprofundar cada vez mais no Front-end e no Back-end.
 
-Possuo um perfil analítico e criativo! Gosto de pensar em novas soluções, observando diferentes formas possíveis para resolver um problema com maior efetividade. 
+Tenho um perfil analítico e criativo! Gosto de pensar em novas soluções para resolver problemas de forma prática e eficiente. 
 
 #
 
